@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Steven Arycena and welcome to my portfolio showcase!</h2>
+<h2 align="left">Hi! Welcome to my portfolio showcase!</h2>
 
 ###
 
